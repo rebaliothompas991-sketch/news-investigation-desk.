@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONFIDENTIAL REPORT: Amirah Syndicate Elder Fraud Investigation</title>
+    <style>
+        :root { --fbi-blue: #002147; --alert-red: #b91c1c; --gov-gray: #f1f5f9; }
+        body { font-family: 'Georgia', serif; line-height: 1.8; color: #1a1a1a; background: #e5e7eb; margin: 0; padding: 40px 20px; }
+        .document-packet { max-width: 900px; margin: 0 auto; background: white; box-shadow: 0 0 50px rgba(0,0,0,0.2); border: 1px solid #ccc; padding: 60px 80px; position: relative; }
+        .watermark { position: absolute; top: 20%; left: 10%; font-size: 100px; color: rgba(220, 38, 38, 0.05); transform: rotate(-45deg); pointer-events: none; text-transform: uppercase; font-weight: bold; }
+        
+        /* Header Section */
+        header { border-bottom: 3px solid var(--fbi-blue); margin-bottom: 40px; padding-bottom: 20px; }
+        .agency-name { font-weight: bold; text-transform: uppercase; letter-spacing: 2px; color: var(--fbi-blue); font-size: 14px; }
+        .case-number { float: right; font-family: monospace; font-size: 14px; color: #666; }
+        
+        h1 { font-size: 42px; line-height: 1.1; margin: 20px 0; font-family: 'Arial Black', sans-serif; text-transform: uppercase; color: #000; }
+        .subtitle { font-size: 22px; color: #b91c1c; font-weight: bold; margin-bottom: 30px; }
+
+        /* Multi-Page Feel Sections */
+        section { margin-bottom: 60px; padding-top: 20px; border-top: 1px solid #eee; }
+        h2 { font-size: 26px; border-left: 10px solid var(--fbi-blue); padding-left: 15px; text-transform: uppercase; margin-bottom: 25px; }
+        p { margin-bottom: 20px; font-size: 18px; text-align: justify; }
+
+        .feature-img { width: 100%; border-radius: 4px; margin: 20px 0; border: 1px solid #ddd; filter: grayscale(20%); }
+        
+        .intel-box { background: var(--gov-gray); border-left: 5px solid var(--fbi-blue); padding: 30px; margin: 30px 0; font-family: 'Arial', sans-serif; font-size: 16px; }
+        .warning-label { background: var(--alert-red); color: white; padding: 10px 20px; font-weight: bold; display: inline-block; border-radius: 4px; margin-bottom: 15px; }
+
+        /* Grid for Apps and Stats */
+        .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin: 30px 0; }
+        .grid-item { background: #fff; border: 1px solid #e5e7eb; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+
+        table { width: 100%; border-collapse: collapse; margin: 30px 0; }
+        th { background: #f8fafc; text-align: left; padding: 15px; border-bottom: 2px solid #000; font-size: 14px; }
+        td { padding: 15px; border-bottom: 1px solid #eee; font-size: 15px; }
+
+        footer { margin-top: 100px; text-align: center; border-top: 2px solid #000; padding-top: 40px; font-family: 'Arial', sans-serif; }
+        .reserved-line { font-weight: bold; color: #000; margin: 20px 0; font-size: 16px; }
+    </style>
+</head>
+<body>
+
+<div class="document-packet">
+    <div class="watermark">Evidence Copy</div>
+    
+    <header>
+        <span class="case-number">CASE REF: #AMIRAH-AF-8822</span>
+        <div class="agency-name">National Elder Fraud Task Force • Investigative Division</div>
+    </header>
+
+    <div class="alert-kicker" style="color:red; font-weight:bold;">[ RESTRICTED ACCESS: PUBLIC SAFETY ADVISORY ]</div>
+    <h1>The 'Amirah' Investigation: A $150k Elder Abuse & Cyber-Fraud Network</h1>
+    <p class="subtitle">Detailed Intelligence on the Romance Syndicate Targeting Retired Seniors Across 12 U.S. Jurisdictions.</p>
+
+    <!-- Section 1: Executive Summary -->
+    <section>
+        <h2>I. Executive Summary</h2>
+        <p>This document serves as a high-priority advisory regarding the <strong>"Amirah"</strong> criminal alias. Intelligence gathered from 12 states indicates a coordinated "Long Game" romance scam specifically engineered to target <strong>retired men and women</strong>. Unlike typical internet fraud, this syndicate uses professional-grade psychological grooming to drain retirement accounts, pension funds, and life insurance payouts.</p>
+        <img src="https://unsplash.com" class="feature-img" alt="Financial Records">
+    </section>
+
+    <!-- Section 2: Victim Profiling -->
+    <section>
+        <h2>II. Targeted Victimology</h2>
+        <div class="intel-box">
+            <span class="warning-label">PRIORITY PROFILE: SENIOR CITIZENS</span>
+            <p>The "Amirah" syndicate utilizes social media scrapers to identify targets who meet the following criteria:</p>
+            <ul>
+                <li><strong>Age Range:</strong> 60–85 years old.</li>
+                <li><strong>Status:</strong> Recently widowed, divorced, or living in geographic isolation.</li>
+                <li><strong>Indicators:</strong> Public posts regarding retirement, grandchildren, or interest in companionship.</li>
+            </ul>
+        </div>
+        <p>Once a target is identified, the operative adopts the "Amirah" persona—a profile designed to appear compassionate, spiritual, and financially stable. This creates a "safe" environment for the victim to lower their guard.</p>
+    </section>
+
+    <!-- Section 3: Technical Dark-Web Infrastructure -->
+    <section>
+        <h2>III. Encrypted Communication Protocols</h2>
+        <p>Federal logs show that the "Amirah" operator will move conversations away from monitored dating sites within the first 48 hours. They insist on platforms that provide "Zero-Knowledge" encryption to prevent federal agencies from intercepting the fraud.</p>
+        
+        <div class="grid">
+            <div class="grid-item">
+                <strong style="color:#b91c1c;">ZANGI & SIGNAL</strong>
+                <p style="font-size:14px;">These apps are the primary tools for the syndicate. Zangi requires no phone number, making the West African operator invisible to U.S. cellular tracking.</p>
+            </div>
+            <div class="grid-item">
+                <strong style="color:#b91c1c;">TELEGRAM BOTS</strong>
+                <p style="font-size:14px;">Used to manage multiple "conversations" at once. One operator may be speaking to 20 retired victims simultaneously using pre-written scripts.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section 4: The Financial Toll -->
+    <section>
+        <h2>IV. Financial Extraction Metrics</h2>
+        <p>The total confirmed losses linked to the "Amirah" persona have surpassed <strong>$150,000.00</strong>. The money trail typically leads through a series of "mules" before being converted to cryptocurrency and sent to West African hubs.</p>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Extraction Method</th>
+                    <th>Average Loss per Victim</th>
+                    <th>Recoverability</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Wire Transfers (Zelle/Bank)</td>
+                    <td>$12,500 - $45,000</td>
+                    <td>Low (<5%)</td>
+                </tr>
+                <tr>
+                    <td>Cryptocurrency (BTC/ETH)</td>
+                    <td>$8,000 - $60,000</td>
+                    <td>Zero (0%)</td>
+                </tr>
+                <tr>
+                    <td>Gift Card Laundering</td>
+                    <td>$500 - $5,000</td>
+                    <td>Zero (0%)</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <!-- Section 5: Legal Directive -->
+    <section>
+        <h2>V. Direct Action Protocol</h2>
+        <p>If you are in communication with "Amirah," you are in immediate financial danger. The syndicate’s next phase is always a <strong>"Crisis Demand"</strong> (e.g., hospital bills, customs bribes, or flight issues).</p>
+        <div class="intel-box" style="background:#fee2e2; border-color:red;">
+            <strong>IMMEDIATE STEPS:</strong>
+            <ol>
+                <li>Disconnect from Zangi, Signal, and Telegram immediately.</li>
+                <li>Do not attempt to "trap" the scammer; they are part of a dangerous criminal infrastructure.</li>
+                <li>Contact the individual who shared this case file with you to coordinate a security audit.</li>
+            </ol>
+        </div>
+    </section>
+
+    <footer>
+        <p>Document compiled by Federal Fraud Investigation Units. Unauthorized reproduction is strictly prohibited.</p>
+        <div class="reserved-line">ALL RIGHTS RESERVED: MICHEAL KETCHAM</div>
+        <p style="font-size:11px;">Official Filing: ic3.gov | Case Status: ACTIVE / ONGOING</p>
+    </footer>
+</div>
+
+</body>
+</html>
